@@ -23,11 +23,11 @@ Program comes with one main command at the moment with two required options. tcp
 /nocheck has the option of yes that disables the host up check and just scans the whole of what the user enters like a whole \24 for the selected ports.
 
 ### speed and output ?
-Platnium port scanner has so far been just as fast if not faster then nmap for host discovery and port scanning, while as not robust if the goal is just to find open ports and running hosts this program has the speed.
+Platnium port scanner has so far been just as fast if not faster then nmap for host discovery and port scanning, while as not robust if the goal is just to find open ports and running hosts this program has the speed.  
 ![image](https://user-images.githubusercontent.com/15575425/159028376-6ecfbb7c-642f-4afd-b652-4997853f182e.png)
 this is a whole \24 check and 1k port scan. Mine on the left vs a -t5 nmap scan on the right. 
 
-output is also tries to be clean and helpful
+output is also tries to be clean and helpful  
 ![image](https://user-images.githubusercontent.com/15575425/159028542-b1c54f16-b724-4b1a-b3ce-32dd73157185.png)
 
 
