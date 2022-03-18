@@ -9,7 +9,7 @@ using System.Drawing;
 
 namespace Platinum_portscanner
 {
-    internal class ArgParser
+    public class ArgParser
     {
         public static List<CommandBase> Commands { get; set; } = new List<CommandBase>();
 

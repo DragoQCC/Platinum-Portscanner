@@ -9,7 +9,7 @@ using Pastel;
 
 namespace Platinum_portscanner.UI
 {
-    internal class ui
+    public class ui
     {
         public static void banner()
         {

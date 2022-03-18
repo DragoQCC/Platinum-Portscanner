@@ -9,7 +9,7 @@ using Platinum_portscanner.Commands;
 
 namespace Platinum_portscanner
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
