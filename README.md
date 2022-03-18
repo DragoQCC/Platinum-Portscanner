@@ -1,4 +1,4 @@
-# Platinum_portscanner
+# Platinum Portscanner
 Platinum portscanner is a C# tool for scanning hosts and ports, it has basic port service detection based on the commonly ran service for a port number(always verify) and basic host OS guesses. It was created to mainly be used once insuide a windows host but still wanting a portscanner with easy syntax, speed and output. 
 ![image](https://user-images.githubusercontent.com/15575425/159026346-0ba8e068-88ad-4d16-906a-e5a6e761adfd.png)
 
