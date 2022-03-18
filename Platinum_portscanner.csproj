@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{AC8518E5-1981-4C87-9F20-012CB909D730}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Platnium_portscanner</RootNamespace>
-    <AssemblyName>Platnium_portscanner</AssemblyName>
+    <RootNamespace>Platinum_portscanner</RootNamespace>
+    <AssemblyName>Platinum_portscanner</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <LangVersion>10.0</LangVersion>
     <FileAlignment>512</FileAlignment>
