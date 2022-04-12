@@ -142,7 +142,7 @@ namespace Platinum_portscanner
             if (arguments.TryGetValue("/ports", out List<string> portList))
             {
                 //if ports is a range of ports, it will be converted to a list of ports.
-                if (portList.Count == 1 && portList[0].StartsWith("-"))
+                if (portList.Count == 1 && portList[0].Contains("-") && !portList[0].Contains("top-"))
                 {
                     string[] portSplit = portList[0].Split('-');
                     int portStart = int.Parse(portSplit[0]);
